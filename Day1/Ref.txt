@@ -1,0 +1,8 @@
+Chapter 1 Consuming and Transforming data by using Power Bi Desktop
+
+1. Connect To Datasources
+Connect to databases,files and folders
+Data connectivity Modes
+Importing Data
+Direct Query
+implications of using Direct Query
